@@ -1,0 +1,12 @@
+asyncio
+websockets
+speechrecognition
+pyttsx3
+requests
+torch
+faster-whisper
+numpy
+python-dotenv
+elevenlabs
+sounddevice
+simpleaudio
